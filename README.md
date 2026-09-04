@@ -1,17 +1,20 @@
-# Anju Kumari
+#  Anju Kumari 👋
 
-## B.Tech CSE Student
+### B.Tech CSE Student | Aspiring Data Engineer
 
-### Skills
+I'm a Computer Science and Engineering student passionate about
+programming, databases, and data.
+
+Currently, I'm learning Python, SQL, Data Structures, and Data Engineering.
+I enjoy building projects and improving my technical skills step by step.
+
+### 🚀 My Goal
+To become a skilled Data Engineer and build useful, real-world projects.
+
+### 🛠️ Skills
 - Python
 - C++
 - SQL
-- Data Engineering
-
-### Projects
-- Python Projects
-- SQL Projects
-- Data Analysis
-
-### About Me
-I am a Computer Science and Engineering student interested in Data Engineering and Technology.
+- DBMS
+- Data Structures
+- Git & GitHub
