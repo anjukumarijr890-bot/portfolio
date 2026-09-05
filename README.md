@@ -8,7 +8,7 @@ programming, databases, and data.
 Currently, I'm learning Python, SQL, Data Structures, and Data Engineering.
 I enjoy building projects and improving my technical skills step by step.
 
-### 🚀 My Goal
+###  My Goal
 To become a skilled Data Engineer and build useful, real-world projects.
 
 ### 🛠️ Skills
